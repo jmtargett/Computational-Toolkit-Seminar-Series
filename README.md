@@ -17,8 +17,7 @@ $a^{2}+b^{2}=c^{2}$
 ## Example Table
 
 
-| a   | b   | c   |  d   |
-| --- | --- | --- | --- |
-| 3   | 4   | 5   |   6  |
-
+| a   | b   | c   | 
+| --- | --- | --- |
+| 3   | 4   | 5   | 
 [Back to Contents](#Contents)
